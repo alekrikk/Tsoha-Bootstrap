@@ -2,8 +2,9 @@
 
 Yleisiä linkkejä:
 
-* [Linkki sovellukseeni](/home/alekrikk/Desktop)
-* [Linkki dokumentaatiooni](/home/alekrikk/Desktop/Tsoha-Bootstrap/doc/dokumentaatio.pdf)
+* [Linkki sovellukseeni](https://github.com/alekrikk/Tsoha-Bootstrap)
+  [Linkki sovellukseeni](alekrikk.users.cs.helsinki.fi/alekrikk_kansio)
+* [Linkki dokumentaatiooni](https://github.com/alekrikk/Tsoha-Bootstrap/tree/master/doc)
 
 ## Työn aihe
 

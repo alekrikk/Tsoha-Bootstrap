@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block content %}
+  <h1>Askareiden listaus</h1>
+
+  <p>
+    <a href="#" class="btn btn-success">Lisää askare</a>
+    <a href="#" class="btn btn-success">Lisää prioriteetti</a>
+    <a href="#" class="btn btn-success">Lisää luokka</a>
+  </p>
+
+  <table class="table table-striped table-bordered">
+    <thead>
+      <tr>
+        <th>Askareen nimi</th>
+        <th>Prioriteetti</th>
+        <th>Luokka</th>
+        <th></th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <!-- Listataan pelit tähän -->
+      <tr>
+        <td><a href="#">Tiskaus</a></td>
+        <td>Tärkeä</td>
+        <td>Kotityöt</td>
+        <th><a class="btn btn-default btn-sm" href="#">Muokkaa</a></th>
+      </tr>
+    </tbody>
+  </table>
+{% endblock %}
